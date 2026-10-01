@@ -11,7 +11,7 @@
         "name": "God of Death",
         "packageName": "eu.kanade.tachiyomi.extension.id.godofdeath",
         "resources": {
-          "apkUrl": "https://github.com/Dudu91884/Extension/blob/main/apk/tachiyomi-id.shinigamix-v1.4.17_clone.apk",
+          "apkUrl": "https://github.com/Dudu91884/Extension/raw/refs/heads/main/apk/tachiyomi-id.shinigamix-v1.4.17_clone.apk",
           "iconUrl": "https://raw.githubusercontent.com/Dudu91884/Extension/main/icon/eu.kanade.tachiyomi.extension.id.godofdeath.png"
         },
         "extensionLib": "1.6",
