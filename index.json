@@ -2,7 +2,9 @@
   "name": "God of Death Repo",
   "badgeLabel": "GOD",
   "signingKey": "SHA256:0000000000000000000000000000000000000000000000000000000000000000",
-  "contact": "https://github.com/Dudu9188",
+  "contact": [
+    "https://github.com/Dudu91884"
+  ],
   "sources": [
     {
       "name": "God of Death",
