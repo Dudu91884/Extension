@@ -17,7 +17,7 @@
         "extensionLib": "1.6",
         "versionCode": "17",
         "versionName": "1.4.17",
-        "contentWarning": "",
+        "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "6492881180290130024",
