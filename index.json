@@ -11,7 +11,7 @@
         "name": "God of Death",
         "packageName": "eu.kanade.tachiyomi.extension.id.godofdeath",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Dudu91884/Extension/main/godofdeath-v1.4.17.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Dudu91884/Extension/main/tachiyomi-id.godofdeath-v1.4.17.apk",
           "iconUrl": "https://raw.githubusercontent.com/Dudu91884/Extension/main/icon/eu.kanade.tachiyomi.extension.id.godofdeath.png"
         },
         "extensionLib": "1.6",
