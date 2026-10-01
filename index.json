@@ -15,10 +15,17 @@
           "iconUrl": "https://raw.githubusercontent.com/Dudu91884/Extension/main/icon/eu.kanade.tachiyomi.extension.id.godofdeath.png"
         },
         "extensionLib": "1.6",
-        "versionCode": 17,
+        "versionCode": "17",
         "versionName": "1.4.17",
-        "lang": "id",
-        "isNsfw": false
+        "contentWarning": "",
+        "sources": [
+          {
+            "id": "6492881180290130024",
+            "name": "God of Death",
+            "language": "id",
+            "homeUrl": "https://app.shinigami.asia"
+          }
+        ]
       }
     ]
   }
