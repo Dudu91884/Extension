@@ -1,9 +1,9 @@
 {
-  "meta": {
-    "name": "God of Death Repo",
-    "version": 1
-  },
-  "extensions": [
+  "name": "God of Death Repo",
+  "badgeLabel": "GOD",
+  "signingKey": "SHA256:0000000000000000000000000000000000000000000000000000000000000000",
+  "contact": "https://github.com/Dudu9188",
+  "sources": [
     {
       "name": "God of Death",
       "pkg": "eu.kanade.tachiyomi.extension.id.godofdeath",
@@ -14,15 +14,9 @@
       "nsfw": 0,
       "hasReadme": 0,
       "hasChangelog": 0,
-      "sources": [
-        {
-          "name": "God of Death",
-          "lang": "id",
-          "id": "6492881180290130024",
-          "baseUrl": "https://app.shinigami.asia",
-          "versionId": 1
-        }
-      ]
+      "id": "6492881180290130024",
+      "baseUrl": "https://app.shinigami.asia",
+      "versionId": 1
     }
   ]
 }
