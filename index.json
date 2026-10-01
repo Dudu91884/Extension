@@ -1,0 +1,22 @@
+[
+  {
+    "name": "God of Death",
+    "pkg": "eu.kanade.tachiyomi.extension.id.godofdeath",
+    "apk": "godofdeath-v1.6.82.apk",
+    "lang": "id",
+    "code": 106082,
+    "version": "1.6.82",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "God of Death",
+        "lang": "id",
+        "id": "6492881180290130024",
+        "baseUrl": "https://shinigami.asia",
+        "versionId": 1
+      }
+    ]
+  }
+]
