@@ -26,6 +26,26 @@
             "homeUrl": "https://app.shinigami.asia"
           }
         ]
+      },
+      {
+        "name": "Kiryuu",
+        "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
+        "resources": {
+          "apkUrl": "https://github.com/Dudu91884/Extension/raw/refs/heads/main/apk/tachiyomi-id.kiryuu-v1.6.59.apk",
+          "iconUrl": "https://raw.githubusercontent.com/Dudu91884/Extension/main/icon/eu.kanade.tachiyomi.extension.id.kiryuu.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3639673976007021338",
+            "name": "Kiryuu",
+            "language": "id",
+            "homeUrl": "https://v7.kiryuu.to"
+          }
+        ]
       }
     ]
   }
