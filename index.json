@@ -49,10 +49,10 @@
       },
       {
         "name": "APKOMIK",
-        "packageName": "eu.kanade.tachiyomi.extension.id.komikav",
+        "packageName": "eu.kanade.tachiyomi.extension.id.apkomik",
         "resources": {
-          "apkUrl": "https://github.com/Dudu91884/Extension/raw/refs/heads/main/apk/tachiyomi-id.komikav-v1.6.6.apk",
-          "iconUrl": "https://raw.githubusercontent.com/Dudu91884/Extension/main/icon/eu.kanade.tachiyomi.extension.id.komikav.png"
+          "apkUrl": "https://github.com/Dudu91884/Extension/raw/refs/heads/main/apk/tachiyomi-id.apkomik-v1.6.6.apk",
+          "iconUrl": "https://raw.githubusercontent.com/Dudu91884/Extension/main/icon/eu.kanade.tachiyomi.extension.id.apkomik.png"
         },
         "extensionLib": "1.6",
         "versionCode": "106006",
@@ -60,7 +60,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "7863711513136723821",
+            "id": "4770941276714643735",
             "name": "APKOMIK",
             "language": "id",
             "homeUrl": "https://01.apkomik.com"
